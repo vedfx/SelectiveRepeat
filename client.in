@@ -1,0 +1,5 @@
+file_name=shakespeare.txt
+server_ip=127.0.0.1
+server_port=531
+client_port=800
+window_size=12
